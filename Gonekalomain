@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>IVOIRE-24</title>
+  
+  <!-- HTML -->
+  
+
+  <!-- Custom Styles -->
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <table>
+    <tr>
+      <td class="tab">Live</td>
+      <td class="tab">film</td>
+      <td class="tab">documentary</td>
+      <td class="tab">news</td>
+    </tr>
+    <tr>
+      <td>11:15</td>
+    </tr>
+  </table>
+  <video  src="/videos/0bd964a92e3e459a8dd9f714b60eb099.mp4" controls></video>
+  <div id="title">
+    Bi zegue de Gonan en live
+  </div>
+  
+  <script src="main.js"></script>
+</body>
+</html>
